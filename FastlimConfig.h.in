@@ -1,0 +1,3 @@
+// the configured options and settings for Fastlim
+#define Fastlim_VERSION_MAJOR @Fastlim_VERSION_MAJOR@
+#define Fastlim_VERSION_MINOR @Fastlim_VERSION_MINOR@
